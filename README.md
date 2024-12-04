@@ -12,7 +12,7 @@ To write a python program to find the inverse of a matrix
 
 ## Program:
 
-```
+```python
 #Program to find the inverse of a matrix.
 #Developed by: KISHORE.S
 #RegisterNumber: 24900594
